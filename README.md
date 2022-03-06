@@ -48,7 +48,7 @@ Bem vindo a minha página do GitHub.
 </p>
 <br>
 
-![Gleysi Ferreira ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=askagi&custom_title=askagi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![askagi ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=askagi&custom_title=askagi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
 <a href="https://github.com/gleysiferreira">
