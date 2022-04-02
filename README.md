@@ -6,7 +6,7 @@ Sou o José Costa, seja bem vindo a minha página do GitHub.
 <br>
 
 - Desenvolvedor javascript fullstack jr
-- Estudante da Cubos Academy
+- Estudante na Cubos Academy
 
 
 <!-- ## **Linguagens e Ferramentas:**  
