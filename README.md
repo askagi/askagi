@@ -33,5 +33,7 @@ Como dizia o poeta filosofo Belchior, Sou “...apenas um rapaz latino-americano
    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=askagi&show_icons=true&theme=nord&hide_border=true" />
    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=askagi&theme=nord&hide_border=true" />
 </p>
-<img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=askagi&layout=compact&langs_count=7&theme=nord"/>
+<p align="left">
+    <img width="49.5%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=askagi&layout=compact&theme=nord&hide_border=true"/>    
+</p>
 </html>
