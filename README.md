@@ -2,7 +2,6 @@
     <h1>Olá, prazer sou o José 👋</h1>
 <div style="display:flex; gap: 0px; justify-content: space-between; align-item: center">
     <div style="line-height: ;">
-       
         <P>
 Sou desenvolvedor javascript Full Stack apaixonado por musica, livros, jogos e filmes.
 Como dizia o poeta filosofo Belchior, Sou “...apenas um rapaz latino-americano sem dinheiro no banco…”, e fascinado por linhas de códigos.
