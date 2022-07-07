@@ -10,7 +10,7 @@ Sou desenvolvedor javascript Full Stack apaixonado por musica, livros, jogos e f
 Como dizia o poeta filosofo Belchior, Sou “...apenas um rapaz latino-americano sem dinheiro no banco…”, e fascinado por linhas de códigos.
         </P>
         <p>
-         Em constante desenvolvimento de minhas habilidades e crescimento profissional. Curioso, flexivo e criativo. Buscando transformar a realide.
+         Em constante desenvolvimento de minhas habilidades e crescimento profissional. Curioso, flexivo e criativo. Buscando transformar a realide por meio da tecnologia.
         </p>
     </div>
   <div style="width:">
