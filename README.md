@@ -4,14 +4,14 @@
     <div style="line-height: ; width: 40%">
         <p>
            Baiano, viciado em escrever linhas de códigos e apaixonado pelas coisas simples da vida.
-        </p>
+       
         
-        <p>
+       
             Sou Desenvolvedor Full Stack graduado em Sistemas de Informação com especialização em
             Desenvolvimento de Software FullStack pela Cubos Academy.
-        </p>
         
-        <p>
+        
+       
             Extremamente motivado e em constante desenvolvimento das minhas habilidades para o meu
             crescimento profissional. Sou curioso, flexível e criativo. Estou buscando transformar a realidade por
             meio da tecnologia.
