@@ -2,20 +2,20 @@
     <h1>Olá, meu nome é José Costa 👋</h1>
 <div style="display:flex; gap: 0px; justify-content: space-between; align-item: center; width: 100%">
     <div style="line-height: ; width: 40%">
-        <P>
+        <p>
            Baiano, viciado em escrever linhas de códigos e apaixonado pelas coisas simples da vida.
-        </P>
+        </p>
         
-        <P>
-           Sou Desenvolvedor Full Stack graduado em Sistemas de Informação com especialização em
-Desenvolvimento de Software FullStack pela Cubos Academy.
-        </P>
+        <p>
+            Sou Desenvolvedor Full Stack graduado em Sistemas de Informação com especialização em
+            Desenvolvimento de Software FullStack pela Cubos Academy.
+        </p>
         
-        <P>
-           Extremamente motivado e em constante desenvolvimento das minhas habilidades para o meu
-crescimento profissional. Sou curioso, flexível e criativo. Estou buscando transformar a realidade por
-meio da tecnologia.
-        </P>
+        <p>
+            Extremamente motivado e em constante desenvolvimento das minhas habilidades para o meu
+            crescimento profissional. Sou curioso, flexível e criativo. Estou buscando transformar a realidade por
+            meio da tecnologia.
+        </p>
     </div>
   <div style="width: 40%">
         <img     src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119e9219fd8cb96b33cd2cf90389235aa5b531e0fd&rid=giphy.gif&ct=g" min-width="300px" max-width="400px" width="300px">
