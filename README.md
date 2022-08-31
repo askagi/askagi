@@ -3,7 +3,18 @@
 <div style="display:flex; gap: 0px; justify-content: space-between; align-item: center; width: 100%">
     <div style="line-height: ; width: 40%">
         <P>
-            Como já dizia o poeta filósofo Belchior, Sou “...apenas um rapaz latino-americano …”; Baiano, viciado em escrever linhas de códigos e apaixonado pelas coisas simples da vida. Bacharel em Sistemas de Informação  com especialização em desenvolvimento de software Javascript FullStack pela Cubos Academy. Extremamente motivado em constante desenvolvimento de minhas habilidades e crescimento profissional, curioso, flexivo e criativo. Buscando transformar a realidade por meio da tecnologia.
+           Baiano, viciado em escrever linhas de códigos e apaixonado pelas coisas simples da vida.
+        </P>
+        
+        <P>
+           Sou Desenvolvedor Full Stack graduado em Sistemas de Informação com especialização em
+Desenvolvimento de Software FullStack pela Cubos Academy.
+        </P>
+        
+        <P>
+           Extremamente motivado e em constante desenvolvimento das minhas habilidades para o meu
+crescimento profissional. Sou curioso, flexível e criativo. Estou buscando transformar a realidade por
+meio da tecnologia.
         </P>
     </div>
   <div style="width: 40%">
