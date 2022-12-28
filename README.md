@@ -1,20 +1,20 @@
-<html>
-    <h1>Olá, meu nome é José Costa 👋</h1>
-<div style="display:flex; gap: 0px; justify-content: space-between; align-item: center; width: 100%">
-    <div style="line-height: ; width: 40%">
-        <p>
-           Baiano, viciado em escrever linhas de códigos e apaixonado pelas coisas simples da vida.
-       Sou Desenvolvedor Full Stack graduado em Sistemas de Informação com especialização em
-            Desenvolvimento de Software FullStack pela Cubos Academy.
-        Extremamente motivado e em constante desenvolvimento das minhas habilidades para o meu
-            crescimento profissional. Sou curioso, flexível e criativo. Estou buscando transformar a realidade por
-            meio da tecnologia.
-        </p>
-    </div>
-  <div style="width: 40%">
-        <img     src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119e9219fd8cb96b33cd2cf90389235aa5b531e0fd&rid=giphy.gif&ct=g" min-width="300px" max-width="400px" width="300px">
-    </div>
-</div>
+
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo José Costa</h1>
+<img align="right" height="350" width="250" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119e9219fd8cb96b33cd2cf90389235aa5b531e0fd&rid=giphy.gif&ct=g"/>
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=askagi&color=yellow" alt="Profile views" /> </p>
+    <p align="left" style="margin-right: 50px">
+Sou desenvolvedor de software Full Stack com bacharel em sistemas de informação pela Universidade do Estado da Bahia. 
+
+Atualmente trabalho como desenvolvedor Full Stack meio periodo para Cubos Academy, utilizando as tecnologias mais modernas do mercado, como javascript, node.js, express, typescript, SQL, postgresql, docker, knex, React, styled-component, HTML, CSS. Focamos em desempenho, código limpo e escalabilidade.
+
+Além de ser viciado no universo da programação gosto de estar sempre estudando e evoluindo profissionalmente, trabalhar em equipe, aplicar metodologias com boas práticas de programação e experimentar novas tecnologias. Se você quiser saber um pouco mais sobre mim e conversar, sinta-se à vontade para entrar em contato comigo :)
+            
+</p>
+    
+## Contato:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecostasantosjr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josecostasantos.jr@gmail.com)
 
 ## HardSkills:
 ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -41,10 +41,6 @@
 - Trabalho em equipe
 - Comunicação clara e objetiva
 - Dedicado
-
-## Contato:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecostasantosjr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](josecostasantos.jr@gmail.com)
 
 ## **GitHub Estatísticas**
 
