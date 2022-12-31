@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo José Costa</h1>
-<img align="right" height="350" width="250" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119e9219fd8cb96b33cd2cf90389235aa5b531e0fd&rid=giphy.gif&ct=g"/>
+<img align="right" height="330" width="250" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119e9219fd8cb96b33cd2cf90389235aa5b531e0fd&rid=giphy.gif&ct=g"/>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=askagi&color=yellow" alt="Profile views" /> </p>
     <p align="left" style="margin-right: 50px">
